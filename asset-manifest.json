@@ -1,24 +1,24 @@
 {
   "files": {
-    "main.css": "/Palash_Portfolio-/Palash_Portfolio_2.0/static/css/main.022eb82c.chunk.css",
-    "main.js": "/Palash_Portfolio-/Palash_Portfolio_2.0/static/js/main.6e152779.chunk.js",
-    "main.js.map": "/Palash_Portfolio-/Palash_Portfolio_2.0/static/js/main.6e152779.chunk.js.map",
-    "runtime-main.js": "/Palash_Portfolio-/Palash_Portfolio_2.0/static/js/runtime-main.593f8388.js",
-    "runtime-main.js.map": "/Palash_Portfolio-/Palash_Portfolio_2.0/static/js/runtime-main.593f8388.js.map",
-    "static/js/2.d593c0f0.chunk.js": "/Palash_Portfolio-/Palash_Portfolio_2.0/static/js/2.d593c0f0.chunk.js",
-    "static/js/2.d593c0f0.chunk.js.map": "/Palash_Portfolio-/Palash_Portfolio_2.0/static/js/2.d593c0f0.chunk.js.map",
-    "index.html": "/Palash_Portfolio-/Palash_Portfolio_2.0/index.html",
-    "precache-manifest.205cdfa39b4cd5ee1ce14db0e806c26e.js": "/Palash_Portfolio-/Palash_Portfolio_2.0/precache-manifest.205cdfa39b4cd5ee1ce14db0e806c26e.js",
-    "service-worker.js": "/Palash_Portfolio-/Palash_Portfolio_2.0/service-worker.js",
-    "static/css/main.022eb82c.chunk.css.map": "/Palash_Portfolio-/Palash_Portfolio_2.0/static/css/main.022eb82c.chunk.css.map",
-    "static/js/2.d593c0f0.chunk.js.LICENSE.txt": "/Palash_Portfolio-/Palash_Portfolio_2.0/static/js/2.d593c0f0.chunk.js.LICENSE.txt",
-    "static/media/Palash_Jain.jpg": "/Palash_Portfolio-/Palash_Portfolio_2.0/static/media/Palash_Jain.9f627bc8.jpg",
-    "static/media/Resume_Palash.pdf": "/Palash_Portfolio-/Palash_Portfolio_2.0/static/media/Resume_Palash.50223ee7.pdf"
+    "main.css": "/Palash_Portfolio_2.0/static/css/main.022eb82c.chunk.css",
+    "main.js": "/Palash_Portfolio_2.0/static/js/main.c87aad76.chunk.js",
+    "main.js.map": "/Palash_Portfolio_2.0/static/js/main.c87aad76.chunk.js.map",
+    "runtime-main.js": "/Palash_Portfolio_2.0/static/js/runtime-main.9bf4acd9.js",
+    "runtime-main.js.map": "/Palash_Portfolio_2.0/static/js/runtime-main.9bf4acd9.js.map",
+    "static/js/2.d593c0f0.chunk.js": "/Palash_Portfolio_2.0/static/js/2.d593c0f0.chunk.js",
+    "static/js/2.d593c0f0.chunk.js.map": "/Palash_Portfolio_2.0/static/js/2.d593c0f0.chunk.js.map",
+    "index.html": "/Palash_Portfolio_2.0/index.html",
+    "precache-manifest.8556d1585d780cdfcbba4bbd598c1cd3.js": "/Palash_Portfolio_2.0/precache-manifest.8556d1585d780cdfcbba4bbd598c1cd3.js",
+    "service-worker.js": "/Palash_Portfolio_2.0/service-worker.js",
+    "static/css/main.022eb82c.chunk.css.map": "/Palash_Portfolio_2.0/static/css/main.022eb82c.chunk.css.map",
+    "static/js/2.d593c0f0.chunk.js.LICENSE.txt": "/Palash_Portfolio_2.0/static/js/2.d593c0f0.chunk.js.LICENSE.txt",
+    "static/media/Palash_Jain.jpg": "/Palash_Portfolio_2.0/static/media/Palash_Jain.9f627bc8.jpg",
+    "static/media/Resume_Palash.pdf": "/Palash_Portfolio_2.0/static/media/Resume_Palash.50223ee7.pdf"
   },
   "entrypoints": [
-    "static/js/runtime-main.593f8388.js",
+    "static/js/runtime-main.9bf4acd9.js",
     "static/js/2.d593c0f0.chunk.js",
     "static/css/main.022eb82c.chunk.css",
-    "static/js/main.6e152779.chunk.js"
+    "static/js/main.c87aad76.chunk.js"
   ]
 }
