@@ -1,6 +1,8 @@
 import React, { useState, useEffect, useCallback } from "react";
 import Col from "react-bootstrap/Col";
 import Card from "react-bootstrap/Card";
+import Button from "react-bootstrap/Button";
+
 import Skeleton from "react-loading-skeleton";
 import axios from "axios";
 
@@ -15,26 +17,15 @@ const ProjectCard = ({ value }) => {
   } = value;
   return (
     <Col md={6}>
-
       <Card className="card shadow-lg p-3 mb-5 bg-white rounded">
-        <Card.Img variant="top" src="https://picsum.photos/200/300
-" />
 
         <Card.Body>
           <Card.Title as="h5">Amazon Clone </Card.Title>
           <Card.Text>This is Replica of Amazon Website. Which includes Functionalities like: Create Account, Login, Add Items to bucket, Cart, Payment.</Card.Text>
-          {svn_url ? <CardButtons svn_url={svn_url} /> : <Skeleton count={2} />}
-          <hr />
-          {languages_url ? (
-            <Language languages_url={languages_url} repo_url={svn_url} />
-          ) : (
-            <Skeleton count={3} />
-          )}
-          {value ? (
-            <CardFooter star_count={stargazers_count} repo_url={svn_url} pushed_at={pushed_at} />
-          ) : (
-            <Skeleton />
-          )}
+          <Button variant="primary" href = " https://github.com/palashjain2801/Amazon-Clone" size="lg" block>Github</Button>
+          
+          <Button variant="success" href = " https://palashjain2801.github.io/Amazon-Clone/" size="lg" block>Host</Button>
+
         </Card.Body>
       </Card>
     </Col>

@@ -2,6 +2,12 @@ import React, { useState, useEffect, useCallback } from "react";
 import Container from "react-bootstrap/Container";
 import Jumbotron from "react-bootstrap/Jumbotron";
 import Row from "react-bootstrap/Row";
+import Col from "react-bootstrap/Col";
+
+import Card from "react-bootstrap/Card";
+
+import Button from "react-bootstrap/Button";
+
 import ProjectCard from "./ProjectCard";
 import axios from "axios";
 
@@ -59,28 +65,72 @@ const Project = ({ heading, username, length, specfic }) => {
   return (
     <Jumbotron fluid id="projects" className="bg-light m-0">
       <Container className="">
+
         <h2 className="display-4 pb-5 text-center">{heading}</h2>
         <Row>
-          {/* {projectsArray.length
-            ? projectsArray.map((project, index) => (
-                <ProjectCard
-                  key={`project-card-${index}`}
-                  id={`project-card-${index}`}
-                  value={project}
-                />
-              ))
-            : dummyProjectsArr.map((project, index) => (
-                <ProjectCard
-                  key={`dummy-${index}`}
-                  id={`dummy-${index}`}
-                  value={project}
-                />
-              ))} */}
-              <ProjectCard
-                  
-                  value={projectsArray}
-                />
-        </Row>
+        <Col md={6}>
+
+        <Card className="card shadow-lg p-3 mb-5 bg-white rounded">
+
+        <Card.Body>
+          <Card.Title as="h5">Amazon Clone </Card.Title>
+          <Card.Text>This is Replica of Amazon Website. Which includes Functionalities like: Create Account, Login, Add Items to bucket, Cart, Payment.</Card.Text>
+          <Button variant="primary" href = " https://github.com/palashjain2801/Amazon-Clone" size="lg" block>Github</Button>
+          
+          <Button variant="success" href = " https://palashjain2801.github.io/Amazon-Clone/" size="lg" block>Host</Button>
+
+        </Card.Body>
+        </Card>
+
+        </Col>
+        <Col md={6}>
+
+        <Card className="card shadow-lg p-3 mb-5 bg-white rounded">
+
+        <Card.Body>
+          <Card.Title as="h5">Netflix Clone </Card.Title>
+          <Card.Text>This is Replica of Netflix Website. Which includes Functionalities of Netflix. You can watch trailer inspite of movies </Card.Text>
+          <Button variant="primary" href = "https://github.com/palashjain2801/Netflix_Clone" size="lg" block>Github</Button>
+          
+          <Button variant="success" href = "https://netflix-clone-87dff.firebaseapp.com/" size="lg" block>Host</Button>
+
+        </Card.Body>
+        </Card>
+        </Col>
+
+  </Row>
+  <Row>
+        <Col md={6}>
+
+        <Card className="card shadow-lg p-3 mb-5 bg-white rounded">
+
+        <Card.Body>
+          <Card.Title as="h5">Corona Tracker  </Card.Title>
+          <Card.Text>Develop an intuitive and user-friendly website for live tracking of COVID-19 cases in 108 countries. Develop using Redux and ReactJS components to call the Mathdroid API and display the data in a graphical format. Mobile Responsive design the user interface using MaterialUI.</Card.Text>
+          <Button variant="primary" href = "https://github.com/palashjain2801/Corona_website_react" size="lg" block>Github</Button>
+          
+          <Button variant="success" href = "https://palashjain2801.github.io/Corona_website_react/#/" size="lg" block>Host</Button>
+
+        </Card.Body>
+        </Card>
+
+        </Col>
+        <Col md={6}>
+
+        <Card className="card shadow-lg p-3 mb-5 bg-white rounded">
+
+        <Card.Body>
+          <Card.Title as="h5">Cloud Native Application </Card.Title>
+          <Card.Text>Developed Imaging Processing Application and deployed using 3 tire cloud native application architecture using various Amazon Cloud Services such as Auto-Scaling, Cloud based database(Dynamo DB), SNS and Lambda function to process raw image and storing processed image in different S3 Bucket. </Card.Text>
+          <Button variant="primary" href = "https://github.com/palashjain2801/Netflix_Clone" size="lg" block>Github</Button>
+          
+          <Button variant="success" href = "https://netflix-clone-87dff.firebaseapp.com/" size="lg" block>Host</Button>
+
+        </Card.Body>
+        </Card>
+        </Col>
+
+  </Row>
       </Container>
     </Jumbotron>
   );

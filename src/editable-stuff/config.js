@@ -37,9 +37,9 @@ const about = {
 
 const repos = {
   show: true,
-  heading: "Recent Projects (Live Fetch)",
+  heading: "Recent Projects ",
   gitHubUsername: "palashjain2801",
-  reposLength: 6,
+  reposLength: 4,
   specificRepos: []
 };
 
