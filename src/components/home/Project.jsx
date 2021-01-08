@@ -124,7 +124,7 @@ const Project = ({ heading, username, length, specfic }) => {
           <Card.Text>Developed Imaging Processing Application and deployed using 3 tire cloud native application architecture using various Amazon Cloud Services such as Auto-Scaling, Cloud based database(Dynamo DB), SNS and Lambda function to process raw image and storing processed image in different S3 Bucket. </Card.Text>
           <Button variant="primary" href = "https://github.com/palashjain2801/Netflix_Clone" target="_blank" size="lg" block>Github</Button>
           
-          <Button variant="success" href = "https://netflix-clone-87dff.firebaseapp.com/" target="_blank" size="lg" block>Host</Button>
+          <Button variant="success" href = "" target=" " size="lg" block>Hosting not available</Button>
 
         </Card.Body>
         </Card>
