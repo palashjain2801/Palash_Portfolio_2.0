@@ -75,9 +75,9 @@ const Project = ({ heading, username, length, specfic }) => {
         <Card.Body>
           <Card.Title as="h5">Amazon Clone </Card.Title>
           <Card.Text>This is Replica of Amazon Website. Which includes Functionalities like: Create Account, Login, Add Items to bucket, Cart, Payment.</Card.Text>
-          <Button variant="primary" href = " https://github.com/palashjain2801/Amazon-Clone"  size="lg" block>Github</Button>
+          <Button variant="primary" href = " https://github.com/palashjain2801/Amazon-Clone" target=" " size="lg" block>Github</Button>
           
-          <Button variant="success" href = " https://palashjain2801.github.io/Amazon-Clone/"  size="lg" block>Host</Button>
+          <Button variant="success" href = " https://palashjain2801.github.io/Amazon-Clone/" target=" " size="lg" block>Host</Button>
 
         </Card.Body>
         </Card>

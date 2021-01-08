@@ -1,24 +1,24 @@
 {
   "files": {
-    "main.css": "/Palash_Portfolio_2.0/static/css/main.022eb82c.chunk.css",
-    "main.js": "/Palash_Portfolio_2.0/static/js/main.31eb6f72.chunk.js",
-    "main.js.map": "/Palash_Portfolio_2.0/static/js/main.31eb6f72.chunk.js.map",
-    "runtime-main.js": "/Palash_Portfolio_2.0/static/js/runtime-main.9bf4acd9.js",
-    "runtime-main.js.map": "/Palash_Portfolio_2.0/static/js/runtime-main.9bf4acd9.js.map",
-    "static/js/2.d588abf1.chunk.js": "/Palash_Portfolio_2.0/static/js/2.d588abf1.chunk.js",
-    "static/js/2.d588abf1.chunk.js.map": "/Palash_Portfolio_2.0/static/js/2.d588abf1.chunk.js.map",
-    "index.html": "/Palash_Portfolio_2.0/index.html",
-    "precache-manifest.0f755bbc1c747912e21fa039a76e1e69.js": "/Palash_Portfolio_2.0/precache-manifest.0f755bbc1c747912e21fa039a76e1e69.js",
-    "service-worker.js": "/Palash_Portfolio_2.0/service-worker.js",
-    "static/css/main.022eb82c.chunk.css.map": "/Palash_Portfolio_2.0/static/css/main.022eb82c.chunk.css.map",
-    "static/js/2.d588abf1.chunk.js.LICENSE.txt": "/Palash_Portfolio_2.0/static/js/2.d588abf1.chunk.js.LICENSE.txt",
-    "static/media/Palash_Jain.jpg": "/Palash_Portfolio_2.0/static/media/Palash_Jain.9f627bc8.jpg",
-    "static/media/Resume_Palash.pdf": "/Palash_Portfolio_2.0/static/media/Resume_Palash.50223ee7.pdf"
+    "main.css": "/Palash_Portfolio_new/static/css/main.022eb82c.chunk.css",
+    "main.js": "/Palash_Portfolio_new/static/js/main.96f32197.chunk.js",
+    "main.js.map": "/Palash_Portfolio_new/static/js/main.96f32197.chunk.js.map",
+    "runtime-main.js": "/Palash_Portfolio_new/static/js/runtime-main.ebe2d8ed.js",
+    "runtime-main.js.map": "/Palash_Portfolio_new/static/js/runtime-main.ebe2d8ed.js.map",
+    "static/js/2.d588abf1.chunk.js": "/Palash_Portfolio_new/static/js/2.d588abf1.chunk.js",
+    "static/js/2.d588abf1.chunk.js.map": "/Palash_Portfolio_new/static/js/2.d588abf1.chunk.js.map",
+    "index.html": "/Palash_Portfolio_new/index.html",
+    "precache-manifest.17a40ec7be88ae67f889713ef77f646c.js": "/Palash_Portfolio_new/precache-manifest.17a40ec7be88ae67f889713ef77f646c.js",
+    "service-worker.js": "/Palash_Portfolio_new/service-worker.js",
+    "static/css/main.022eb82c.chunk.css.map": "/Palash_Portfolio_new/static/css/main.022eb82c.chunk.css.map",
+    "static/js/2.d588abf1.chunk.js.LICENSE.txt": "/Palash_Portfolio_new/static/js/2.d588abf1.chunk.js.LICENSE.txt",
+    "static/media/Palash_Jain.jpg": "/Palash_Portfolio_new/static/media/Palash_Jain.9f627bc8.jpg",
+    "static/media/Resume_Palash.pdf": "/Palash_Portfolio_new/static/media/Resume_Palash.50223ee7.pdf"
   },
   "entrypoints": [
-    "static/js/runtime-main.9bf4acd9.js",
+    "static/js/runtime-main.ebe2d8ed.js",
     "static/js/2.d588abf1.chunk.js",
     "static/css/main.022eb82c.chunk.css",
-    "static/js/main.31eb6f72.chunk.js"
+    "static/js/main.96f32197.chunk.js"
   ]
 }
