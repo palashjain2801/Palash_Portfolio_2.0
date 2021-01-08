@@ -19,17 +19,17 @@ const dummyProject = {
   languages_url: null,
   pushed_at: null
 };
-// const API = "https://api.github.com";
-// const gitHubQuery = "/repos?sort=updated&direction=desc";
-// const specficQuerry = "https://api.github.com/repos/hashirshoaeb/";
+const API = "https://api.github.com";
+const gitHubQuery = "/repos?sort=updated&direction=desc";
+const specficQuerry = "https://api.github.com/repos/palashjain2801/";
 
 const Project = ({ heading, username, length, specfic }) => {
-  // const allReposAPI = `${API}/users/${username}/repos?sort=updated&direction=desc`;
-  // const specficReposAPI = `${API}/repos/${username}`;
-  // const dummyProjectsArr = new Array(length + specfic.length).fill(
-  //   dummyProject
-  // );
-  // console.log('👉👉👉👉',Project);
+  const allReposAPI = `${API}/users/${username}/repos?sort=updated&direction=desc`;
+  const specficReposAPI = `${API}/repos/${username}`;
+  const dummyProjectsArr = new Array(length + specfic.length).fill(
+    dummyProject
+  );
+  console.log('👉👉👉👉',Project);
 
 
   const [projectsArray, setProjectsArray] = useState([]);
