@@ -1,23 +1,23 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "8d36681739934d0ebdce25bd40ce1196",
+    "revision": "d0666e30aa7265157ecaf60b73e0c66a",
     "url": "/Palash_Portfolio_2.0/index.html"
   },
   {
-    "revision": "a7628e176a42b4c45d60",
+    "revision": "fda82219572e670dd1f4",
     "url": "/Palash_Portfolio_2.0/static/css/main.022eb82c.chunk.css"
   },
   {
-    "revision": "a29fbb8e610dc2d33b39",
-    "url": "/Palash_Portfolio_2.0/static/js/2.d593c0f0.chunk.js"
+    "revision": "cb6338d0c9f623360b01",
+    "url": "/Palash_Portfolio_2.0/static/js/2.d588abf1.chunk.js"
   },
   {
     "revision": "29eb69a08ea4198f7b46e1db8a3d5045",
-    "url": "/Palash_Portfolio_2.0/static/js/2.d593c0f0.chunk.js.LICENSE.txt"
+    "url": "/Palash_Portfolio_2.0/static/js/2.d588abf1.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "a7628e176a42b4c45d60",
-    "url": "/Palash_Portfolio_2.0/static/js/main.2c5c247c.chunk.js"
+    "revision": "fda82219572e670dd1f4",
+    "url": "/Palash_Portfolio_2.0/static/js/main.55bb68a1.chunk.js"
   },
   {
     "revision": "a75ec9a96d1fd2d955fb",
