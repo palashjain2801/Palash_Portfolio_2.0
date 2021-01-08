@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/Palash_Portfolio_new/static/css/main.022eb82c.chunk.css",
-    "main.js": "/Palash_Portfolio_new/static/js/main.ac20511f.chunk.js",
-    "main.js.map": "/Palash_Portfolio_new/static/js/main.ac20511f.chunk.js.map",
+    "main.js": "/Palash_Portfolio_new/static/js/main.9332b846.chunk.js",
+    "main.js.map": "/Palash_Portfolio_new/static/js/main.9332b846.chunk.js.map",
     "runtime-main.js": "/Palash_Portfolio_new/static/js/runtime-main.ebe2d8ed.js",
     "runtime-main.js.map": "/Palash_Portfolio_new/static/js/runtime-main.ebe2d8ed.js.map",
     "static/js/2.d588abf1.chunk.js": "/Palash_Portfolio_new/static/js/2.d588abf1.chunk.js",
     "static/js/2.d588abf1.chunk.js.map": "/Palash_Portfolio_new/static/js/2.d588abf1.chunk.js.map",
     "index.html": "/Palash_Portfolio_new/index.html",
-    "precache-manifest.aeeb2e8234d5126bc0363236fb1b659c.js": "/Palash_Portfolio_new/precache-manifest.aeeb2e8234d5126bc0363236fb1b659c.js",
+    "precache-manifest.3cc04e49bc95418224af9337839939a8.js": "/Palash_Portfolio_new/precache-manifest.3cc04e49bc95418224af9337839939a8.js",
     "service-worker.js": "/Palash_Portfolio_new/service-worker.js",
     "static/css/main.022eb82c.chunk.css.map": "/Palash_Portfolio_new/static/css/main.022eb82c.chunk.css.map",
     "static/js/2.d588abf1.chunk.js.LICENSE.txt": "/Palash_Portfolio_new/static/js/2.d588abf1.chunk.js.LICENSE.txt",
@@ -19,6 +19,6 @@
     "static/js/runtime-main.ebe2d8ed.js",
     "static/js/2.d588abf1.chunk.js",
     "static/css/main.022eb82c.chunk.css",
-    "static/js/main.ac20511f.chunk.js"
+    "static/js/main.9332b846.chunk.js"
   ]
 }
